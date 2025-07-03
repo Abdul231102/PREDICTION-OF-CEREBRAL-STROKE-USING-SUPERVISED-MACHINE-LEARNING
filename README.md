@@ -1,0 +1,2 @@
+# PREDICTION-OF-CEREBRAL-STROKE-USING-SUPERVISED-MACHINE-LEARNING
+To detect  the  Cereberal stroke using ADA boost,KNN, Bagging classifier and Decision tree algorithms with higher efficiency and accuracy.  The goal is to develop a novel decision-making tool for predicting strokes. To implement ADA boost,KNN, Bagging classifier and Decision tree algorithm, the system can assist in early stroke detection
